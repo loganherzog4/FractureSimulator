@@ -18,29 +18,28 @@ In order to demo the functionality, follow these steps:
 5) Navigate to where you saved WOOD.las and double click that file to select it
 6) Click the green arrow to designate column headers for the .LAS file
 7) Set the following column headers:
-    Measured Depth: MD
-    Permeability: Ki
-    Porosity: PhiT (check box for percentage)
-    Water Saturation: Sw (check box for percentage)
-    
-   And leave Pay and Reservoir Flag headers blank.
-8) Write in 4400 ft for Top Depth and 5050 ft for Base Depth and click the green arrow to continue.
-9) Click the three dots and choose Directional Survey.txt in the File Explorer as your directional survey file.
-10) Click the green arrow to designate column headers for the survey file.
-11) Set the following column headers:
-     Measured Depth: MD
-     Vertical Depth: TVD
-12) Click the green arrow to continue.
-13) Use the default 600 acre grid area option.
-14) Click the green arrow to continue.
-15) Enter the following fracture parameters:
-     Fracture half-length: 135 ft
-     Average fracture width: 0.22 in
-     Fracture height: 85 ft
-     Fracture top depth: 4400 ft TVD
-     Dimensionless fracture conductivity: 0.23
-16) Click the green arrow to continue.
-17) Choose the option to generate a fine-scale grid.
-18) Choose file path and names for the grid files by clicking the three dot buttons next to the text fields. Save them wherever and as whatever you choose.
-19) Designate a wellbore radius of 0.25 ft.
-20) Click the green arrow to run the macro. The creation of the grid files will take around 2-3 minutes. Enjoy a cup of coffee!
+8) Measured Depth: MD
+9) Permeability: Ki
+10) Porosity: PhiT (check box for percentage)
+11) Water Saturation: Sw (check box for percentage)
+12) And leave Pay and Reservoir Flag headers blank.
+13) Write in 4400 ft for Top Depth and 5050 ft for Base Depth and click the green arrow to continue.
+14) Click the three dots and choose Directional Survey.txt in the File Explorer as your directional survey file.
+15) Click the green arrow to designate column headers for the survey file.
+16) Set the following column headers:
+17) Measured Depth: MD
+18) Vertical Depth: TVD
+19) Click the green arrow to continue.
+20) Use the default 600 acre grid area option.
+21) Click the green arrow to continue.
+22) Enter the following fracture parameters:
+23) Fracture half-length: 135 ft
+24) Average fracture width: 0.22 in
+25) Fracture height: 85 ft
+26) Fracture top depth: 4400 ft TVD
+27) Dimensionless fracture conductivity: 0.23
+28) Click the green arrow to continue.
+29) Choose the option to generate a fine-scale grid.
+30) Choose file path and names for the grid files by clicking the three dot buttons next to the text fields. Save them wherever and as whatever you choose.
+31) Designate a wellbore radius of 0.25 ft.
+32) Click the green arrow to run the macro. The creation of the grid files will take around 2-3 minutes. Enjoy a cup of coffee!
