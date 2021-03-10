@@ -2,10 +2,7 @@
 Fracture Simulator project built for my 2017 internship as a Petroleum Engineer.
 
 
-This project was developed without much regard to code maintainability - it was meant to be used entirely internally for our small team of Reservoir Engineers. Therefore, if you notice that I declared variables at the top of subs in massive walls, and that the majority of algorithm mathematics is not commented over...sorry!
-
-
-I have developed much better coding practices since I made this project; however, it still does exactly what it was designed to do, and was a project that got me hired on for a second internship.
+This project was developed to be used entirely internally for our small team of Reservoir Engineers. My coding practices have improved both aesthetically and algorithmically since its development.
 
 
 In order to demo the functionality, follow these steps:
