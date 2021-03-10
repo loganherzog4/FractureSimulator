@@ -11,7 +11,7 @@ I have developed much better coding practices since I made this project; however
 In order to demo the functionality, follow these steps:
 
 
-1) Download Fracture Simulator.xlsm, Wood.las, and Directional Survey.txt from this repository
+1) Download Fracture Simulator.xlsm, from this repository. Download the input files WOOD.LAS and Directional Survey.txt from my Google Drive: https://drive.google.com/drive/folders/1J1aRD2bCyAZr5WrGgFIjFwqb768dwrw9?usp=sharing
 2) Open Fracture Simulator.xlsm and enable macros
 3) Click the top button, "Run Simulation"
 4) A form should pop up. Click the three dots button next to the text field to open a File Explorer window
